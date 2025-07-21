@@ -1,3 +1,4 @@
 [submodule "mobile"]
 	path = mobile
-	url = git@github.com:arrudax/mobile.git
+	url = https://github.com/arrudax/mobile.git
+	branch = master
