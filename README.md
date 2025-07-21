@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="banner.png" alt="Habit Tracker Banner" />
-</p>
+
+<picture>
+	<img alt="Habit Tracker Banner" src="banner.png">
+</picture>
+
 # Habit Tracker 📈
 
 Este projeto foi desenvolvido durante a **Next Level Week** da [Rocketseat](https://rocketseat.com.br) — um evento totalmente gratuito, online e prático que tem como objetivo impulsionar desenvolvedores de todos os níveis ao próximo estágio da sua jornada.
