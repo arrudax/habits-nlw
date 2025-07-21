@@ -25,7 +25,7 @@ O projeto foi desenvolvido em **5 dias de aula intensiva**, com foco em boas pr�
 - Criação de aplicações web e mobile com React e React Native
 - Utilização do TypeScript para tipagem segura
 - Componentização e reutilização de elementos com React
-- Criação de APIs REST com Node.js
+- Criação de APIs REST com Node.js + prisma
 - Estilização moderna e rápida com Tailwind CSS
 - Organização de rotas e estados da aplicação
 
