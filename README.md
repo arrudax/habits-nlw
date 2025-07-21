@@ -1,6 +1,6 @@
 
 <picture>
-	<img alt="Habit Tracker Banner" src="banner.png">
+	<img alt="Habit Tracker Banner" src="./banner.png">
 </picture>
 
 # Habit Tracker 📈
