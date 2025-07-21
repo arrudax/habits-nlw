@@ -12,10 +12,6 @@ O projeto foi desenvolvido em **5 dias de aula intensiva**, com foco em boas prÃ
 
 ## ðŸš€ Tecnologias e Ferramentas
 
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="./caminho/para/imagem.png" alt="Tecnologias utilizadas" />
-</div>
-
 - **React**  
 - **React Native**  
 - **Node.js**  
