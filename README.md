@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Habit Tracker Banner" />
+  <img src="banner.png" alt="Habit Tracker Banner" />
 </p>
 # Habit Tracker 📈
 
